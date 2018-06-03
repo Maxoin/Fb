@@ -1,0 +1,16 @@
+{
+  "name": "fight",
+  "version": "1.0.0",
+  "description": "bot combat new leaf",
+  "main": "main.js",
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicksoin",
+  "license": "ISC"
+}
